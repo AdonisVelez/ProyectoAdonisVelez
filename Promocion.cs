@@ -1,0 +1,4 @@
+interface IPromocion 
+{
+    double CalcularPromocion();
+}
